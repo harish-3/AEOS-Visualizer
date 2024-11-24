@@ -2,7 +2,7 @@
 
 A beautiful, interactive data visualization tool that transforms raw data into engaging animated infographics using AI-powered insights.
 
-![AEOS Visualizer](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=1200&h=400)
+![AEOS Visualizer](https://ibb.co/MnwpdKM)
 
 ## Features
 
@@ -18,7 +18,7 @@ A beautiful, interactive data visualization tool that transforms raw data into e
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/aeos-visualizer.git
+https://github.com/harish-3/AEOS-Visualizer
 
 # Navigate to project directory
 cd aeos-visualizer

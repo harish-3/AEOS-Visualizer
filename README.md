@@ -2,7 +2,7 @@
 
 A beautiful, interactive data visualization tool that transforms raw data into engaging animated infographics using AI-powered insights.
 
-![AEOS Visualizer](https://ibb.co/MnwpdKM)
+![AEOS Visualizer](https://images.app.goo.gl/xmvwQAV1w3kSdpR1A)
 
 ## Features
 

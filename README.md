@@ -21,7 +21,7 @@ A powerful data visualization tool that transforms raw data into beautiful, anim
 1. Clone and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/aeos-visualizer.git
+https://github.com/harish-3/AEOS-Visualizer
 cd aeos-visualizer
 npm install
 ```
@@ -114,4 +114,5 @@ src/
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Made By Harish M
 ```

@@ -1,5 +1,6 @@
 ```markdown
 # AEOS Visualizer
+[Prototype](https://aeos-visulizer-1.netlify.app/)
 
 A powerful data visualization tool that transforms raw data into beautiful, animated infographics using AI-powered insights.
 

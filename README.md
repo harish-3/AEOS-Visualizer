@@ -3,8 +3,6 @@
 
 A powerful data visualization tool that transforms raw data into beautiful, animated infographics using AI-powered insights.
 
-![AEOS Visualizer](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=1200)
-
 ## Features
 
 - 🎨 Beautiful, animated visualizations
